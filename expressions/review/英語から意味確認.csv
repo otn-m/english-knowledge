@@ -1,0 +1,301 @@
+id,category,source_id,evidence_level,expression,example_en,meaning_ja
+E001,日常会話,PHRASE_STYLE,B,It happens,"It happens, so let us try again tomorrow.",そういうこともある
+E002,日常会話,PHRASE_STYLE,B,No worries,"No worries, I can wait a few more minutes.",気にしなくていい
+E003,日常会話,PHRASE_STYLE,B,That makes sense,That makes sense now that you explained the reason.,それは筋が通っている
+E004,日常会話,PHRASE_STYLE,B,I see what you mean,"I see what you mean, but I still have one concern.",言いたいことは分かる
+E005,日常会話,PHRASE_STYLE,B,I am not sure,"I am not sure, so I will check it later.",よく分からない、自信がない
+E006,日常会話,PHRASE_STYLE,B,I am not sure if,I am not sure if the store is still open.,...かどうか分からない
+E007,日常会話,PHRASE_STYLE,B,Do you mean,Do you mean we should leave earlier?,...という意味ですか
+E008,日常会話,PHRASE_STYLE,B,What do you mean by,What do you mean by flexible schedule?,...とはどういう意味ですか
+E009,日常会話,PHRASE_STYLE,B,Let me think,Let me think before I answer that.,少し考えさせて
+E010,日常会話,PHRASE_STYLE,B,Give me a second,"Give me a second, and I will find the file.",少し待って
+E011,日常会話,PHRASE_STYLE,B,I was wondering if,I was wondering if you could help me with this.,...していただけないかと思って
+E012,日常会話,PHRASE_STYLE,B,Could you do me a favor,Could you do me a favor and check this message?,お願いしてもいいですか
+E013,日常会話,PHRASE_STYLE,B,Would you mind,Would you mind opening the window?,...していただけますか
+E014,日常会話,PHRASE_STYLE,B,Let me know,Let me know if you need anything.,知らせてください
+E015,日常会話,PRAGMATIC_HIGH_UTILITY,C,Keep me posted,Keep me posted on how it goes.,随時知らせて
+E016,日常会話,PHRASE_STYLE,B,Sounds good,Sounds good. Let us meet at six.,よさそうです
+E017,日常会話,PHRASE_STYLE,B,That works for me,Tuesday afternoon works for me.,それで大丈夫です
+E018,日常会話,PRAGMATIC_HIGH_UTILITY,C,I am in,"If you are going hiking, I am in.",参加します、乗ります
+E019,日常会話,PRAGMATIC_HIGH_UTILITY,C,I am up for it,A late dinner sounds fun. I am up for it.,やってみたい、乗り気です
+E020,日常会話,PHRASE_STYLE,B,I have plans,"I have plans tonight, but maybe next week.",予定があります
+E021,日常会話,PHRASE_STYLE,B,Maybe next time,I cannot join today. Maybe next time.,また今度
+E022,日常会話,PHRASE_STYLE,B,I will pass,"Thanks for asking, but I will pass this time.",今回は遠慮します
+E023,日常会話,PHRASE_STYLE,B,I cannot make it,"I am sorry, but I cannot make it to dinner.",行けない、間に合わない
+E024,日常会話,PHRASE_STYLE,B,I am running late,"I am running late, but I will be there soon.",遅れています
+E025,日常会話,PHAVE_EXISTING,A,I got caught up,I got caught up in a call and missed the train.,手が離せなくなった
+E026,日常会話,PHRASE_STYLE,B,I am on my way,I am on my way and should arrive in ten minutes.,向かっています
+E027,日常会話,PHRASE_STYLE,B,I am almost there,"I am almost there, so please wait inside.",もうすぐ着きます
+E028,日常会話,PHRASE_STYLE,B,Thanks for having me,Thanks for having me. I had a great time.,招いてくれてありがとう
+E029,日常会話,PHRASE_STYLE,B,I appreciate it,"You helped me a lot, and I appreciate it.",感謝しています
+E030,日常会話,PHRASE_STYLE,B,That is kind of you,That is kind of you to offer me a ride.,ご親切にありがとう
+E031,日常会話,PHRASE_STYLE,B,Sorry about that,Sorry about that. I sent the wrong link.,それはすみません
+E032,日常会話,PRAGMATIC_HIGH_UTILITY,C,My bad,My bad. I forgot to bring the tickets.,私のミスです
+E033,日常会話,PHRASE_STYLE,B,It is up to you,We can eat out or cook at home. It is up to you.,あなた次第です
+E034,日常会話,PHRASE_STYLE,B,Either way is fine,We can meet before or after lunch. Either way is fine.,どちらでも大丈夫
+E035,日常会話,PHRASE_STYLE,B,I do not mind,I do not mind walking if the weather is nice.,構いません
+E036,日常会話,PHRASE_STYLE,B,I would rather,I would rather stay home tonight.,むしろ...したい
+E037,日常会話,PHRASE_STYLE,B,I feel like,I feel like taking a short walk.,...したい気がする、...のように感じる
+E038,日常会話,PHRASE_STYLE,B,I am into,I am into podcasts about history.,...にハマっている
+E039,日常会話,PHRASE_STYLE,B,I am not into,I am not into horror movies.,...はあまり好きではない
+E040,日常会話,PHRASE_STYLE,B,I am looking forward to,I am looking forward to seeing you next week.,...を楽しみにしている
+E041,日常会話,PHRASE_STYLE,B,I cannot wait to,I cannot wait to try the new restaurant.,...するのが待ちきれない
+E042,日常会話,PHRASE_STYLE,B,I am used to,I am used to working from home.,...に慣れている
+E043,日常会話,PHRASE_STYLE,B,I am getting used to,I am getting used to the new schedule.,...に慣れてきている
+E044,日常会話,PHRASE_STYLE,B,I tend to,I tend to wake up early on weekends.,...しがちです
+E045,日常会話,PHRASE_STYLE,B,I am supposed to,I am supposed to call my parents tonight.,...することになっている
+E046,日常会話,PHRASE_STYLE,B,I meant to,"I meant to reply earlier, but I forgot.",...するつもりだった
+E047,日常会話,PHRASE_STYLE,B,I forgot to,I forgot to charge my phone.,...するのを忘れた
+E048,日常会話,PHAVE_EXISTING,A,I ended up,I ended up staying home all day.,結局...した
+E049,日常会話,PHAVE_EXISTING,A,It turned out,It turned out that we had the same idea.,結果として...だと分かった
+E050,日常会話,PHRASE_STYLE,B,I ran into,I ran into an old friend at the station.,...に偶然会った
+E051,日常会話,PHRASE_STYLE,B,I came across,I came across an interesting article this morning.,...を偶然見つけた
+E052,日常会話,PHRASE_STYLE,B,It depends,It depends. I need to check my schedule first.,場合によります
+E053,日常会話,PHRASE_STYLE,B,It depends on,It depends on how much time we have.,...次第です
+E054,日常会話,PHRASE_STYLE,B,As far as I know,"As far as I know, the shop closes at eight.",私の知る限りでは
+E055,日常会話,PHRASE_STYLE,B,To be honest,"To be honest, I was a little nervous.",正直に言うと
+E056,日常会話,PHRASE_STYLE,B,Honestly,"Honestly, I did not expect such a quick reply.",正直なところ
+E057,日常会話,PHRASE_STYLE,B,Actually,"Actually, I have already seen that movie.",実は、実際には
+E058,日常会話,PHRASE_STYLE,B,In that case,"In that case, let us take a taxi.",それなら
+E059,日常会話,PHRASE_STYLE,B,By the way,"By the way, did you call Lisa?",ところで
+E060,日常会話,PHRASE_STYLE,B,Speaking of,"Speaking of lunch, have you tried that cafe?",...と言えば
+E061,日常会話,PHRASE_STYLE,B,That reminds me,"That reminds me, I need to book a hotel.",それで思い出した
+E062,日常会話,PHRASE_STYLE,B,Before I forget,"Before I forget, here is your charger.",忘れないうちに
+E063,日常会話,PHRASE_STYLE,B,Long story short,"Long story short, we missed the last train.",手短に言うと
+E064,日常会話,PHRASE_STYLE,B,I get the point,"I get the point, but I disagree with the solution.",要点は分かります
+E065,日常会話,PHRASE_STYLE,B,I am not following,I am not following. Could you explain that part again?,話についていけていません
+E066,日常会話,PHRASE_STYLE,B,Could you say that again,Could you say that again? The connection was bad.,もう一度言ってもらえますか
+E067,日常会話,PHRASE_STYLE,B,Could you slow down,Could you slow down a little? I am still learning.,ゆっくり話してもらえますか
+E068,日常会話,PHRASE_STYLE,B,What are you up to,What are you up to this weekend?,何しているの、最近どう
+E069,日常会話,PHRASE_STYLE,B,How did it go,How did it go with your interview?,どうだった
+E070,日常会話,PHAVE_EXISTING,A,Let us catch up,Let us catch up over coffee next week.,近況を話そう
+E071,仕事・メール,BUSINESS_CORPUS_REF,B,Please find attached,Please find attached the updated proposal.,添付をご確認ください
+E072,仕事・メール,BUSINESS_CORPUS_REF,B,I am writing to,I am writing to confirm our meeting time.,...するためにご連絡しています
+E073,仕事・メール,BUSINESS_CORPUS_REF,B,I wanted to ask about,I wanted to ask about the timeline for this project.,...について伺いたいです
+E074,仕事・メール,PHAVE_EXISTING,A,I wanted to follow up on,I wanted to follow up on the budget discussion.,...についてフォローアップしたいです
+E075,仕事・メール,BUSINESS_CORPUS_REF,B,Just following up on,Just following up on my email from last week.,...について再度確認します
+E076,仕事・メール,BUSINESS_CORPUS_REF,B,Thank you for reaching out,Thank you for reaching out. I would be happy to help.,ご連絡ありがとうございます
+E077,仕事・メール,BUSINESS_CORPUS_REF,B,Thanks for the update,Thanks for the update. I will review it today.,更新ありがとうございます
+E078,仕事・メール,BUSINESS_CORPUS_REF,B,I will look into it,I will look into it and get back to you.,調べてみます
+E079,仕事・メール,PHAVE_EXISTING,A,I will get back to you,I will get back to you by tomorrow morning.,折り返し連絡します
+E080,仕事・メール,BUSINESS_CORPUS_REF,B,Could you clarify,Could you clarify what you mean by final version?,明確にしていただけますか
+E081,仕事・メール,BUSINESS_CORPUS_REF,B,Could you confirm,Could you confirm the meeting location?,確認していただけますか
+E082,仕事・メール,BUSINESS_CORPUS_REF,B,Could you send over,Could you send over the latest numbers?,送っていただけますか
+E083,仕事・メール,BUSINESS_CORPUS_REF,B,Could you take a look at,Could you take a look at this draft?,見ていただけますか
+E084,仕事・メール,BUSINESS_CORPUS_REF,B,Please let me know if,Please let me know if you have any questions.,...なら知らせてください
+E085,仕事・メール,BUSINESS_CORPUS_REF,B,Let me check,Let me check the calendar and get back to you.,確認します
+E086,仕事・メール,BUSINESS_CORPUS_REF,B,Let me double-check,Let me double-check the numbers before we send this.,念のため確認します
+E087,仕事・メール,BUSINESS_CORPUS_REF,B,I will keep you updated,I will keep you updated as the situation changes.,随時共有します
+E088,仕事・メール,BUSINESS_CORPUS_REF,B,I will share the details,I will share the details after the meeting.,詳細を共有します
+E089,仕事・メール,BUSINESS_CORPUS_REF,B,For your reference,"For your reference, I attached last quarter's report.",ご参考までに
+E090,仕事・メール,BUSINESS_CORPUS_REF,B,For your review,"For your review, I added comments to the document.",レビュー用に
+E091,仕事・メール,BUSINESS_CORPUS_REF,B,As discussed,"As discussed, we will start with a small test.",話し合った通り
+E092,仕事・メール,BUSINESS_CORPUS_REF,B,As mentioned earlier,"As mentioned earlier, the deadline is Friday.",先ほど述べた通り
+E093,仕事・メール,BUSINESS_CORPUS_REF,B,Based on our conversation,"Based on our conversation, I revised the proposal.",話し合いに基づいて
+E094,仕事・メール,BUSINESS_CORPUS_REF,B,Regarding,"Regarding the invoice, we need one small correction.",...に関して
+E095,仕事・メール,BUSINESS_CORPUS_REF,B,With regard to,"With regard to the schedule, we have two options.",...に関して
+E096,仕事・メール,BUSINESS_CORPUS_REF,B,As for,"As for the design, I will ask the team.",...については
+E097,仕事・メール,BUSINESS_CORPUS_REF,B,In terms of,"In terms of cost, this option is better.",...の観点では
+E098,仕事・メール,BUSINESS_CORPUS_REF,B,On my end,Everything looks good on my end.,私の側では
+E099,仕事・メール,BUSINESS_CORPUS_REF,B,From my side,"From my side, there are no major concerns.",私の側からは
+E100,仕事・メール,BUSINESS_CORPUS_REF,B,From your perspective,"From your perspective, what is the biggest risk?",あなたの観点では
+E101,仕事・メール,BUSINESS_CORPUS_REF,B,We need to align on,We need to align on the scope before we start.,...について認識を合わせる必要がある
+E102,仕事・メール,BUSINESS_CORPUS_REF,B,Let us align on,Let us align on the next steps in today's meeting.,...について認識を合わせましょう
+E103,仕事・メール,BUSINESS_CORPUS_REF,B,I agree with,I agree with your suggestion.,...に賛成です
+E104,仕事・メール,BUSINESS_CORPUS_REF,B,I am aligned with,I am aligned with the current direction.,...と認識が一致しています
+E105,仕事・メール,BUSINESS_CORPUS_REF,B,That works on my end,That works on my end. Please send the invite.,私の側ではそれで大丈夫です
+E106,仕事・メール,BUSINESS_CORPUS_REF,B,Does that work for you,We can meet at three. Does that work for you?,それで都合はよいですか
+E107,仕事・メール,BUSINESS_CORPUS_REF,B,What is your availability,What is your availability next Tuesday?,ご都合はいかがですか
+E108,仕事・メール,BUSINESS_CORPUS_REF,B,Are you available for,Are you available for a quick call tomorrow?,...に対応可能ですか
+E109,仕事・メール,BUSINESS_CORPUS_REF,B,Let us schedule,Let us schedule a follow-up meeting.,予定を入れましょう
+E110,仕事・メール,BUSINESS_CORPUS_REF,B,Let us reschedule,Let us reschedule the meeting for next week.,予定を変更しましょう
+E111,仕事・メール,BUSINESS_CORPUS_REF,B,Let us push back,Let us push back the launch by one week.,後ろ倒しにしましょう
+E112,仕事・メール,PHAVE_EXISTING,A,Let us move up,Let us move up the review to Monday.,前倒しにしましょう
+E113,仕事・メール,BUSINESS_CORPUS_REF,B,The deadline is approaching,"The deadline is approaching, so we need a final check.",締切が近づいています
+E114,仕事・メール,BUSINESS_CORPUS_REF,B,We are on track,We are on track to finish by Friday.,予定通り進んでいます
+E115,仕事・メール,BUSINESS_CORPUS_REF,B,We are behind schedule,We are behind schedule because testing took longer.,予定より遅れています
+E116,仕事・メール,BUSINESS_CORPUS_REF,B,We are ahead of schedule,"We are ahead of schedule, so we can start the review.",予定より進んでいます
+E117,仕事・メール,BUSINESS_CORPUS_REF,B,There is a blocker,There is a blocker with the approval process.,障害があります
+E118,仕事・メール,BUSINESS_CORPUS_REF,B,We need to prioritize,We need to prioritize the tasks for this week.,優先順位をつける必要がある
+E119,仕事・メール,BUSINESS_CORPUS_REF,B,The main priority is,The main priority is fixing the login issue.,最優先事項は...です
+E120,仕事・メール,BUSINESS_CORPUS_REF,B,To move this forward,"To move this forward, we need approval today.",これを前に進めるために
+E121,仕事・メール,BUSINESS_CORPUS_REF,B,Next steps are,Next steps are testing the feature and sharing feedback.,次のステップは...です
+E122,仕事・メール,BUSINESS_CORPUS_REF,B,Action items,Action items are listed at the bottom of the notes.,対応事項
+E123,仕事・メール,BUSINESS_CORPUS_REF,B,I will take care of,I will take care of the booking.,...を対応します
+E124,仕事・メール,BUSINESS_CORPUS_REF,B,I will handle,I will handle the client communication.,...を担当します
+E125,仕事・メール,BUSINESS_CORPUS_REF,B,Could you own,Could you own the testing plan?,...を担当してもらえますか
+E126,仕事・メール,BUSINESS_CORPUS_REF,B,Who is responsible for,Who is responsible for the final approval?,...の責任者は誰ですか
+E127,仕事・メール,BUSINESS_CORPUS_REF,B,I am responsible for,I am responsible for the weekly report.,...を担当しています
+E128,仕事・メール,BUSINESS_CORPUS_REF,B,I will make sure,I will make sure everyone receives the update.,必ず...します
+E129,仕事・メール,BUSINESS_CORPUS_REF,B,Please make sure,Please make sure the file name is correct.,必ず...してください
+E130,仕事・メール,BUSINESS_CORPUS_REF,B,It would be helpful if,It would be helpful if you could send examples.,...していただけると助かります
+E131,仕事・メール,BUSINESS_CORPUS_REF,B,It would be great if,It would be great if we could decide today.,...していただけるとありがたいです
+E132,仕事・メール,BUSINESS_CORPUS_REF,B,At your earliest convenience,Please reply at your earliest convenience.,ご都合がつき次第
+E133,仕事・メール,BUSINESS_CORPUS_REF,B,By end of day,Please send the numbers by end of day.,今日中に
+E134,仕事・メール,BUSINESS_CORPUS_REF,B,By close of business,We need the approval by close of business.,業務終了時までに
+E135,仕事・メール,BUSINESS_CORPUS_REF,B,No later than,Please submit the form no later than Friday.,遅くとも...までに
+E136,仕事・メール,BUSINESS_CORPUS_REF,B,As soon as possible,Please let us know as soon as possible.,できるだけ早く
+E137,仕事・メール,BUSINESS_CORPUS_REF,B,Whenever you have a chance,Could you review this whenever you have a chance?,お時間のあるときに
+E138,仕事・メール,BUSINESS_CORPUS_REF,B,No rush,"No rush, but please send it this week.",急ぎません
+E139,仕事・メール,BUSINESS_CORPUS_REF,B,Thanks in advance,Thanks in advance for your help.,先にお礼申し上げます
+E140,仕事・メール,BUSINESS_CORPUS_REF,B,I appreciate your help,I appreciate your help with this issue.,ご協力に感謝します
+E141,仕事・メール,BUSINESS_CORPUS_REF,B,Sorry for the inconvenience,Sorry for the inconvenience caused by the delay.,ご不便をおかけしてすみません
+E142,仕事・メール,BUSINESS_CORPUS_REF,B,Thank you for your patience,Thank you for your patience while we investigate this.,お待ちいただきありがとうございます
+E143,仕事・メール,BUSINESS_CORPUS_REF,B,I apologize for the delay,I apologize for the delay in getting back to you.,遅れて申し訳ありません
+E144,仕事・メール,BUSINESS_CORPUS_REF,B,There was a misunderstanding,There was a misunderstanding about the deadline.,誤解がありました
+E145,仕事・メール,BUSINESS_CORPUS_REF,B,To avoid confusion,"To avoid confusion, I summarized the decision below.",混乱を避けるために
+E146,仕事・メール,BUSINESS_CORPUS_REF,B,To clarify,"To clarify, the price does not include tax.",明確にすると
+E147,仕事・メール,BUSINESS_CORPUS_REF,B,Just to confirm,"Just to confirm, the meeting starts at ten.",確認ですが
+E148,仕事・メール,BUSINESS_CORPUS_REF,B,Just to be clear,"Just to be clear, this is not the final version.",はっきりさせると
+E149,仕事・メール,BUSINESS_CORPUS_REF,B,Please note that,Please note that the office will be closed Monday.,...にご注意ください
+E150,仕事・メール,BUSINESS_CORPUS_REF,B,A quick heads-up,A quick heads-up: the schedule may change.,念のため事前共有です
+E151,仕事・メール,BUSINESS_CORPUS_REF,B,We are currently working on,We are currently working on the final design.,現在...に取り組んでいます
+E152,仕事・メール,BUSINESS_CORPUS_REF,B,We are planning to,We are planning to release the update next month.,...する予定です
+E153,仕事・メール,BUSINESS_CORPUS_REF,B,We are considering,We are considering a simpler pricing model.,...を検討しています
+E154,仕事・メール,BUSINESS_CORPUS_REF,B,We decided to,We decided to postpone the launch.,...することに決めました
+E155,仕事・メール,BUSINESS_CORPUS_REF,B,We are expected to,We are expected to finish the review by Friday.,...する見込みです
+E156,仕事・メール,BUSINESS_CORPUS_REF,B,The issue has been resolved,"The issue has been resolved, and the service is back online.",問題は解決済みです
+E157,仕事・メール,BUSINESS_CORPUS_REF,B,The issue is still ongoing,"The issue is still ongoing, but we found the cause.",問題はまだ継続中です
+E158,仕事・メール,BUSINESS_CORPUS_REF,B,I will escalate this,I will escalate this to the support team.,この件を上位にエスカレーションします
+E159,仕事・メール,BUSINESS_CORPUS_REF,B,I looped in,I looped in Maria because she owns the data.,...を話に入れました
+E160,仕事・メール,BUSINESS_CORPUS_REF,B,I have cc'd,I have cc'd Ken for visibility.,...をCCに入れました
+E161,説明・意見,AFL_DISCOURSE,B,In my opinion,"In my opinion, this plan is realistic.",私の意見では
+E162,説明・意見,AFL_DISCOURSE,B,I would say,I would say the first option is safer.,私なら...と言います
+E163,説明・意見,AFL_DISCOURSE,B,I would argue that,I would argue that the benefits outweigh the risks.,...だと主張したい
+E164,説明・意見,AFL_DISCOURSE,B,It seems to me that,It seems to me that we need more data.,私には...のように思える
+E165,説明・意見,AFL_DISCOURSE,B,I suppose,I suppose we could start with a small test.,...だと思います
+E166,説明・意見,AFL_DISCOURSE,B,I assume,I assume the price includes shipping.,...だと想定しています
+E167,説明・意見,AFL_DISCOURSE,B,I guess,I guess we should leave soon.,...だと思う
+E168,説明・意見,AFL_DISCOURSE,B,I am convinced that,I am convinced that this approach will work.,...だと確信しています
+E169,説明・意見,AFL_DISCOURSE,B,I am not convinced that,I am not convinced that this solves the root problem.,...だとは納得していません
+E170,説明・意見,AFL_DISCOURSE,B,There is no doubt that,There is no doubt that demand is increasing.,...であることは疑いない
+E171,説明・意見,AFL_DISCOURSE,B,It is likely that,It is likely that prices will rise again.,...である可能性が高い
+E172,説明・意見,AFL_DISCOURSE,B,It is unlikely that,It is unlikely that we can finish today.,...である可能性は低い
+E173,説明・意見,AFL_DISCOURSE,B,It is possible that,It is possible that the data is incomplete.,...の可能性がある
+E174,説明・意見,AFL_DISCOURSE,B,It is worth noting that,It is worth noting that the sample size is small.,...は注目に値する
+E175,説明・意見,AFL_DISCOURSE,B,The point is that,The point is that we need a simpler process.,要するに...ということです
+E176,説明・意見,AFL_DISCOURSE,B,The key point is,The key point is customer trust.,重要な点は...です
+E177,説明・意見,AFL_DISCOURSE,B,The main reason is,The main reason is the lack of time.,主な理由は...です
+E178,説明・意見,AFL_DISCOURSE,B,One reason is that,One reason is that the tool is easy to use.,一つの理由は...です
+E179,説明・意見,AFL_DISCOURSE,B,Another factor is,Another factor is the cost of maintenance.,もう一つの要因は...です
+E180,説明・意見,AFL_DISCOURSE,B,This is because,This is because users prefer a faster process.,これは...だからです
+E181,説明・意見,AFL_DISCOURSE,B,That is why,That is why we changed the schedule.,だから...なのです
+E182,説明・意見,AFL_DISCOURSE,B,As a result,"As a result, the team saved two hours a week.",その結果
+E183,説明・意見,AFL_DISCOURSE,B,As a consequence,"As a consequence, the cost increased.",結果として
+E184,説明・意見,AFL_DISCOURSE,B,For this reason,"For this reason, we recommend the second option.",この理由で
+E185,説明・意見,AFL_DISCOURSE,B,In other words,"In other words, we need more time.",言い換えると
+E186,説明・意見,AFL_DISCOURSE,B,To put it simply,"To put it simply, the system is too slow.",簡単に言うと
+E187,説明・意見,AFL_DISCOURSE,B,Put another way,"Put another way, we are solving the wrong problem.",別の言い方をすると
+E188,説明・意見,AFL_DISCOURSE,B,What I mean is,What I mean is that the timing matters.,私が言いたいのは...です
+E189,説明・意見,AFL_DISCOURSE,B,For example,"For example, we could start with new users.",例えば
+E190,説明・意見,AFL_DISCOURSE,B,For instance,"For instance, the app loads faster on Wi-Fi.",例えば
+E191,説明・意見,AFL_DISCOURSE,B,Such as,We need basic information such as name and email.,...のような
+E192,説明・意見,AFL_DISCOURSE,B,In particular,"In particular, the onboarding flow needs work.",特に
+E193,説明・意見,AFL_DISCOURSE,B,Especially when,This matters especially when users are in a hurry.,特に...の場合
+E194,説明・意見,AFL_DISCOURSE,B,In general,"In general, shorter emails are easier to read.",一般的に
+E195,説明・意見,AFL_DISCOURSE,B,Generally speaking,"Generally speaking, people prefer simple choices.",一般的に言えば
+E196,説明・意見,AFL_DISCOURSE,B,In many cases,"In many cases, the first version is not perfect.",多くの場合
+E197,説明・意見,AFL_DISCOURSE,B,In some cases,"In some cases, a phone call is faster.",場合によっては
+E198,説明・意見,AFL_DISCOURSE,B,On the one hand,"On the one hand, the tool is powerful.",一方では
+E199,説明・意見,AFL_DISCOURSE,B,On the other hand,"On the other hand, it is hard to learn.",他方では
+E200,説明・意見,AFL_DISCOURSE,B,By contrast,"By contrast, the second option is much cheaper.",対照的に
+E201,説明・意見,AFL_DISCOURSE,B,In contrast,"In contrast, last year's results were stable.",対照的に
+E202,説明・意見,AFL_DISCOURSE,B,Compared with,"Compared with last year, sales are higher.",...と比べて
+E203,説明・意見,AFL_DISCOURSE,B,Similar to,This issue is similar to the one we saw in May.,...と似ている
+E204,説明・意見,AFL_DISCOURSE,B,Unlike,"Unlike the old version, this one works offline.",...とは違って
+E205,説明・意見,AFL_DISCOURSE,B,Even though,"Even though it is expensive, it saves time.",...だけれども
+E206,説明・意見,AFL_DISCOURSE,B,Although,"Although the idea is good, the timing is difficult.",...ではあるが
+E207,説明・意見,AFL_DISCOURSE,B,Despite,"Despite the delay, the team stayed calm.",...にもかかわらず
+E208,説明・意見,AFL_DISCOURSE,B,In spite of,"In spite of the risk, they accepted the plan.",...にもかかわらず
+E209,説明・意見,AFL_DISCOURSE,B,Regardless of,"Regardless of the result, we should document the process.",...に関係なく
+E210,説明・意見,AFL_DISCOURSE,B,As long as,"As long as we start early, we can finish today.",...する限り
+E211,説明・意見,AFL_DISCOURSE,B,Unless,"Unless we get approval, we cannot release it.",...でない限り
+E212,説明・意見,AFL_DISCOURSE,B,If possible,"If possible, I would like to meet before noon.",可能であれば
+E213,説明・意見,AFL_DISCOURSE,B,If necessary,"If necessary, we can add another review step.",必要であれば
+E214,説明・意見,AFL_DISCOURSE,B,Depending on,"Depending on the feedback, we may change the design.",...によっては
+E215,説明・意見,AFL_DISCOURSE,B,In this case,"In this case, the simplest answer is best.",この場合
+E216,説明・意見,AFL_DISCOURSE,B,In that sense,"In that sense, the experiment was successful.",その意味では
+E217,説明・意見,AFL_DISCOURSE,B,To some extent,"To some extent, I agree with that view.",ある程度は
+E218,説明・意見,AFL_DISCOURSE,B,In a way,"In a way, this mistake helped us learn.",ある意味では
+E219,説明・意見,AFL_DISCOURSE,B,More or less,The plan is more or less finished.,だいたい
+E220,説明・意見,AFL_DISCOURSE,B,At least,At least we know what caused the problem.,少なくとも
+E221,説明・意見,AFL_DISCOURSE,B,In short,"In short, we need a clearer goal.",要するに
+E222,説明・意見,AFL_DISCOURSE,B,To sum up,"To sum up, the project is on track.",まとめると
+E223,説明・意見,AFL_DISCOURSE,B,Overall,"Overall, the feedback was positive.",全体として
+E224,説明・意見,AFL_DISCOURSE,B,The problem is,The problem is that the instructions are unclear.,問題は...です
+E225,説明・意見,AFL_DISCOURSE,B,The challenge is,The challenge is keeping the process simple.,課題は...です
+E226,説明・意見,AFL_DISCOURSE,B,The benefit is,The benefit is that users can start faster.,利点は...です
+E227,説明・意見,AFL_DISCOURSE,B,The downside is,The downside is the extra setup time.,欠点は...です
+E228,説明・意見,AFL_DISCOURSE,B,It comes down to,It comes down to time and budget.,結局...に尽きる
+E229,説明・意見,AFL_DISCOURSE,B,It depends on whether,It depends on whether the client accepts the change.,...かどうかによる
+E230,説明・意見,AFL_DISCOURSE,B,What matters is,What matters is whether people actually use it.,重要なのは...です
+E231,高頻度コロケーション,CORPUS_COLLOCATION,B,make a decision,We need to make a decision by Friday.,決定する
+E232,高頻度コロケーション,CORPUS_COLLOCATION,B,make a mistake,It is okay to make a mistake while learning.,間違える
+E233,高頻度コロケーション,CORPUS_COLLOCATION,B,make progress,We made good progress this week.,進歩する、進捗を出す
+E234,高頻度コロケーション,CORPUS_COLLOCATION,B,make sense,Your explanation makes sense to me.,意味をなす、筋が通る
+E235,高頻度コロケーション,CORPUS_COLLOCATION,B,make an effort,I will make an effort to speak more clearly.,努力する
+E236,高頻度コロケーション,CORPUS_COLLOCATION,B,make a difference,Small changes can make a big difference.,違いを生む、効果がある
+E237,高頻度コロケーション,CORPUS_COLLOCATION,B,take responsibility,She took responsibility for the final report.,責任を取る
+E238,高頻度コロケーション,CORPUS_COLLOCATION,B,take action,We need to take action before it gets worse.,行動を起こす
+E239,高頻度コロケーション,CORPUS_COLLOCATION,B,take advantage of,You should take advantage of the free trial.,...を活用する、利用する
+E240,高頻度コロケーション,CORPUS_COLLOCATION,B,take into account,We should take user feedback into account.,...を考慮に入れる
+E241,高頻度コロケーション,CORPUS_COLLOCATION,B,take place,The meeting will take place online.,行われる、起こる
+E242,高頻度コロケーション,CORPUS_COLLOCATION,B,take time,Learning a language takes time.,時間がかかる
+E243,高頻度コロケーション,CORPUS_COLLOCATION,B,take notes,I always take notes during meetings.,メモを取る
+E244,高頻度コロケーション,CORPUS_COLLOCATION,B,take a break,Let us take a break after this section.,休憩する
+E245,高頻度コロケーション,CORPUS_COLLOCATION,B,take care of,I will take care of the reservation.,...の世話をする、対応する
+E246,高頻度コロケーション,CORPUS_COLLOCATION,B,have a chance,I finally had a chance to read your article.,機会がある
+E247,高頻度コロケーション,CORPUS_COLLOCATION,B,have trouble,I had trouble finding the right file.,苦労する
+E248,高頻度コロケーション,CORPUS_COLLOCATION,B,have access to,Do you have access to the shared folder?,...にアクセスできる
+E249,高頻度コロケーション,CORPUS_COLLOCATION,B,have an impact on,This change will have an impact on our timeline.,...に影響を与える
+E250,高頻度コロケーション,CORPUS_COLLOCATION,B,have a conversation,We should have a conversation with the client.,会話する、話し合う
+E251,高頻度コロケーション,CORPUS_COLLOCATION,B,do research,I need to do research on the market.,調査する
+E252,高頻度コロケーション,CORPUS_COLLOCATION,B,do business,We do business with several local suppliers.,取引する
+E253,高頻度コロケーション,CORPUS_COLLOCATION,B,do your best,Just do your best and learn from the result.,最善を尽くす
+E254,高頻度コロケーション,CORPUS_COLLOCATION,B,get permission,We need to get permission before using the logo.,許可を得る
+E255,高頻度コロケーション,CORPUS_COLLOCATION,B,get approval,We need to get approval for the budget.,承認を得る
+E256,高頻度コロケーション,CORPUS_COLLOCATION,B,get feedback,I want to get feedback on the first draft.,フィードバックを得る
+E257,高頻度コロケーション,CORPUS_COLLOCATION,B,get started,Let us get started with the first question.,始める
+E258,高頻度コロケーション,CORPUS_COLLOCATION,B,get ready,We need to get ready for the presentation.,準備する
+E259,高頻度コロケーション,CORPUS_COLLOCATION,B,give advice,Can you give me advice on my resume?,助言する
+E260,高頻度コロケーション,CORPUS_COLLOCATION,B,give feedback,Please give feedback on the new layout.,フィードバックする
+E261,高頻度コロケーション,CORPUS_COLLOCATION,B,give a presentation,She will give a presentation at the conference.,プレゼンをする
+E262,高頻度コロケーション,CORPUS_COLLOCATION,B,give someone a hand,Could you give me a hand with these boxes?,人を手伝う
+E263,高頻度コロケーション,CORPUS_COLLOCATION,B,pay attention to,Pay attention to the wording in this email.,...に注意を払う
+E264,高頻度コロケーション,CORPUS_COLLOCATION,B,pay for,I will pay for lunch today.,...の代金を払う
+E265,高頻度コロケーション,PHAVE_EXISTING,A,pay off,Your hard work will pay off eventually.,報われる、効果が出る
+E266,高頻度コロケーション,CORPUS_COLLOCATION,B,keep in mind,Please keep the deadline in mind.,...を覚えておく、考慮する
+E267,高頻度コロケーション,CORPUS_COLLOCATION,B,keep track of,We need to keep track of all expenses.,...を把握し続ける
+E268,高頻度コロケーション,CORPUS_COLLOCATION,B,keep an eye on,Can you keep an eye on the progress?,...を見守る、監視する
+E269,高頻度コロケーション,CORPUS_COLLOCATION,B,stay in touch,Let us stay in touch after the project ends.,連絡を取り続ける
+E270,高頻度コロケーション,CORPUS_COLLOCATION,B,stay focused,It is hard to stay focused with so many notifications.,集中し続ける
+E271,高頻度コロケーション,CORPUS_COLLOCATION,B,stay up to date,I read newsletters to stay up to date.,最新情報を把握している
+E272,高頻度コロケーション,PHAVE_EXISTING,A,come up with,We need to come up with a better name.,...を思いつく
+E273,高頻度コロケーション,CORPUS_COLLOCATION,B,come to a conclusion,"After the discussion, we came to a conclusion.",結論に達する
+E274,高頻度コロケーション,CORPUS_COLLOCATION,B,reach a decision,The committee reached a decision yesterday.,決定に至る
+E275,高頻度コロケーション,PHAVE_EXISTING,A,reach out to,I will reach out to the support team.,...に連絡する
+E276,高頻度コロケーション,CORPUS_COLLOCATION,B,meet a deadline,We worked late to meet the deadline.,締切に間に合う
+E277,高頻度コロケーション,CORPUS_COLLOCATION,B,miss a deadline,We cannot afford to miss another deadline.,締切に遅れる
+E278,高頻度コロケーション,CORPUS_COLLOCATION,B,set a goal,Set a clear goal before you start studying.,目標を設定する
+E279,高頻度コロケーション,CORPUS_COLLOCATION,B,set a deadline,Let us set a deadline for the first draft.,締切を設定する
+E280,高頻度コロケーション,CORPUS_COLLOCATION,B,set expectations,We should set expectations with the client early.,期待値を調整する
+E281,高頻度コロケーション,CORPUS_COLLOCATION,B,raise a question,This result raises an important question.,疑問を提起する
+E282,高頻度コロケーション,CORPUS_COLLOCATION,B,raise awareness,The campaign raised awareness of food waste.,認知を高める
+E283,高頻度コロケーション,CORPUS_COLLOCATION,B,address an issue,We need to address the issue before launch.,問題に対処する
+E284,高頻度コロケーション,CORPUS_COLLOCATION,B,solve a problem,This feature solves a common problem.,問題を解決する
+E285,高頻度コロケーション,CORPUS_COLLOCATION,B,cause a problem,The last-minute change caused a problem.,問題を引き起こす
+E286,高頻度コロケーション,CORPUS_COLLOCATION,B,face a challenge,Many teams face the same challenge.,課題に直面する
+E287,高頻度コロケーション,CORPUS_COLLOCATION,B,play a role,Timing played a role in our success.,役割を果たす
+E288,高頻度コロケーション,CORPUS_COLLOCATION,B,play an important part,User feedback played an important part in the redesign.,重要な役割を果たす
+E289,高頻度コロケーション,CORPUS_COLLOCATION,B,build trust,Clear communication helps build trust.,信頼を築く
+E290,高頻度コロケーション,CORPUS_COLLOCATION,B,build a relationship,It takes time to build a strong relationship.,関係を築く
+E291,高頻度コロケーション,CORPUS_COLLOCATION,B,save time,Templates can save time for repeated tasks.,時間を節約する
+E292,高頻度コロケーション,CORPUS_COLLOCATION,B,save money,Buying in bulk can save money.,お金を節約する
+E293,高頻度コロケーション,CORPUS_COLLOCATION,B,spend time,I spend time reviewing expressions every morning.,時間を使う
+E294,高頻度コロケーション,CORPUS_COLLOCATION,B,waste time,Do not waste time worrying about small mistakes.,時間を無駄にする
+E295,高頻度コロケーション,CORPUS_COLLOCATION,B,reduce costs,Automation can reduce costs over time.,コストを削減する
+E296,高頻度コロケーション,CORPUS_COLLOCATION,B,increase sales,The new campaign helped increase sales.,売上を増やす
+E297,高頻度コロケーション,CORPUS_COLLOCATION,B,improve quality,Regular reviews improve quality.,品質を向上させる
+E298,高頻度コロケーション,CORPUS_COLLOCATION,B,provide support,The team provides support for new users.,支援を提供する
+E299,高頻度コロケーション,CORPUS_COLLOCATION,B,offer a solution,This service offers a simple solution.,解決策を提示する
+E300,高頻度コロケーション,CORPUS_COLLOCATION,B,achieve a goal,You need a clear plan to achieve a goal.,目標を達成する

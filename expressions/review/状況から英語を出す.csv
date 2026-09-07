@@ -1,0 +1,301 @@
+id,category,source_id,evidence_level,prompt_ja,answer_en
+E001,日常会話,PHRASE_STYLE,B,失敗や予想外の出来事を軽く受け止めるで「そういうこともある」と言いたい。,It happens
+E002,日常会話,PHRASE_STYLE,B,謝罪や依頼への軽い返答で「気にしなくていい」と言いたい。,No worries
+E003,日常会話,PHRASE_STYLE,B,説明を聞いて納得するで「それは筋が通っている」と言いたい。,That makes sense
+E004,日常会話,PHRASE_STYLE,B,相手の意図を理解したことを示すで「言いたいことは分かる」と言いたい。,I see what you mean
+E005,日常会話,PHRASE_STYLE,B,答えに確信がないで「よく分からない、自信がない」と言いたい。,I am not sure
+E006,日常会話,PHRASE_STYLE,B,条件や事実に確信がないで「...かどうか分からない」と言いたい。,I am not sure if
+E007,日常会話,PHRASE_STYLE,B,相手の発言を確認するで「...という意味ですか」と言いたい。,Do you mean
+E008,日常会話,PHRASE_STYLE,B,単語や発言の意味を尋ねるで「...とはどういう意味ですか」と言いたい。,What do you mean by
+E009,日常会話,PHRASE_STYLE,B,すぐに答えず考える時間を取るで「少し考えさせて」と言いたい。,Let me think
+E010,日常会話,PHRASE_STYLE,B,短い待ち時間を頼むで「少し待って」と言いたい。,Give me a second
+E011,日常会話,PHRASE_STYLE,B,丁寧に依頼や質問を切り出すで「...していただけないかと思って」と言いたい。,I was wondering if
+E012,日常会話,PHRASE_STYLE,B,頼みごとを切り出すで「お願いしてもいいですか」と言いたい。,Could you do me a favor
+E013,日常会話,PHRASE_STYLE,B,丁寧に行動を依頼するで「...していただけますか」と言いたい。,Would you mind
+E014,日常会話,PHRASE_STYLE,B,相手から情報をもらうで「知らせてください」と言いたい。,Let me know
+E015,日常会話,PRAGMATIC_HIGH_UTILITY,C,進捗や状況を継続的に知りたいで「随時知らせて」と言いたい。,Keep me posted
+E016,日常会話,PHRASE_STYLE,B,提案に同意するで「よさそうです」と言いたい。,Sounds good
+E017,日常会話,PHRASE_STYLE,B,予定や方法に同意するで「それで大丈夫です」と言いたい。,That works for me
+E018,日常会話,PRAGMATIC_HIGH_UTILITY,C,誘いや案に参加する意思を示すで「参加します、乗ります」と言いたい。,I am in
+E019,日常会話,PRAGMATIC_HIGH_UTILITY,C,活動への前向きな気持ちを示すで「やってみたい、乗り気です」と言いたい。,I am up for it
+E020,日常会話,PHRASE_STYLE,B,誘いを断る理由を述べるで「予定があります」と言いたい。,I have plans
+E021,日常会話,PHRASE_STYLE,B,今回は断って次回に回すで「また今度」と言いたい。,Maybe next time
+E022,日常会話,PHRASE_STYLE,B,提案を短く断るで「今回は遠慮します」と言いたい。,I will pass
+E023,日常会話,PHRASE_STYLE,B,予定に参加できないで「行けない、間に合わない」と言いたい。,I cannot make it
+E024,日常会話,PHRASE_STYLE,B,到着が遅れることを伝えるで「遅れています」と言いたい。,I am running late
+E025,日常会話,PHAVE_EXISTING,A,別件で遅れた理由を説明するで「手が離せなくなった」と言いたい。,I got caught up
+E026,日常会話,PHRASE_STYLE,B,移動中であることを伝えるで「向かっています」と言いたい。,I am on my way
+E027,日常会話,PHRASE_STYLE,B,到着直前であることを伝えるで「もうすぐ着きます」と言いたい。,I am almost there
+E028,日常会話,PHRASE_STYLE,B,訪問や食事のあとに感謝するで「招いてくれてありがとう」と言いたい。,Thanks for having me
+E029,日常会話,PHRASE_STYLE,B,やや丁寧に感謝するで「感謝しています」と言いたい。,I appreciate it
+E030,日常会話,PHRASE_STYLE,B,相手の親切に反応するで「ご親切にありがとう」と言いたい。,That is kind of you
+E031,日常会話,PHRASE_STYLE,B,軽いミスや迷惑を謝るで「それはすみません」と言いたい。,Sorry about that
+E032,日常会話,PRAGMATIC_HIGH_UTILITY,C,くだけた場面で自分のミスを認めるで「私のミスです」と言いたい。,My bad
+E033,日常会話,PHRASE_STYLE,B,決定を相手に委ねるで「あなた次第です」と言いたい。,It is up to you
+E034,日常会話,PHRASE_STYLE,B,二つの選択肢のどちらでもよいで「どちらでも大丈夫」と言いたい。,Either way is fine
+E035,日常会話,PHRASE_STYLE,B,不満がないことを示すで「構いません」と言いたい。,I do not mind
+E036,日常会話,PHRASE_STYLE,B,好みを控えめに述べるで「むしろ...したい」と言いたい。,I would rather
+E037,日常会話,PHRASE_STYLE,B,気分や印象を述べるで「...したい気がする、...のように感じる」と言いたい。,I feel like
+E038,日常会話,PHRASE_STYLE,B,興味や趣味を述べるで「...にハマっている」と言いたい。,I am into
+E039,日常会話,PHRASE_STYLE,B,好みでないことを柔らかく言うで「...はあまり好きではない」と言いたい。,I am not into
+E040,日常会話,PHRASE_STYLE,B,予定への期待を述べるで「...を楽しみにしている」と言いたい。,I am looking forward to
+E041,日常会話,PHRASE_STYLE,B,強い楽しみを表すで「...するのが待ちきれない」と言いたい。,I cannot wait to
+E042,日常会話,PHRASE_STYLE,B,慣れた状態を述べるで「...に慣れている」と言いたい。,I am used to
+E043,日常会話,PHRASE_STYLE,B,慣れる途中であることを述べるで「...に慣れてきている」と言いたい。,I am getting used to
+E044,日常会話,PHRASE_STYLE,B,自分の傾向を述べるで「...しがちです」と言いたい。,I tend to
+E045,日常会話,PHRASE_STYLE,B,予定や義務を述べるで「...することになっている」と言いたい。,I am supposed to
+E046,日常会話,PHRASE_STYLE,B,意図はあったが実行できなかったことを述べるで「...するつもりだった」と言いたい。,I meant to
+E047,日常会話,PHRASE_STYLE,B,未実行の忘れ物を述べるで「...するのを忘れた」と言いたい。,I forgot to
+E048,日常会話,PHAVE_EXISTING,A,予定と違う結果を述べるで「結局...した」と言いたい。,I ended up
+E049,日常会話,PHAVE_EXISTING,A,後で判明した結果を述べるで「結果として...だと分かった」と言いたい。,It turned out
+E050,日常会話,PHRASE_STYLE,B,偶然の出会いを述べるで「...に偶然会った」と言いたい。,I ran into
+E051,日常会話,PHRASE_STYLE,B,情報や物を偶然見つけるで「...を偶然見つけた」と言いたい。,I came across
+E052,日常会話,PHRASE_STYLE,B,条件次第で答えが変わるで「場合によります」と言いたい。,It depends
+E053,日常会話,PHRASE_STYLE,B,依存する条件を示すで「...次第です」と言いたい。,It depends on
+E054,日常会話,PHRASE_STYLE,B,限定付きで情報を伝えるで「私の知る限りでは」と言いたい。,As far as I know
+E055,日常会話,PHRASE_STYLE,B,率直な意見を前置きするで「正直に言うと」と言いたい。,To be honest
+E056,日常会話,PHRASE_STYLE,B,率直さや驚きを出すで「正直なところ」と言いたい。,Honestly
+E057,日常会話,PHRASE_STYLE,B,訂正や追加情報を出すで「実は、実際には」と言いたい。,Actually
+E058,日常会話,PHRASE_STYLE,B,前の情報を受けて判断するで「それなら」と言いたい。,In that case
+E059,日常会話,PHRASE_STYLE,B,話題を切り替えるで「ところで」と言いたい。,By the way
+E060,日常会話,PHRASE_STYLE,B,関連話題へ移るで「...と言えば」と言いたい。,Speaking of
+E061,日常会話,PHRASE_STYLE,B,思い出した用件を出すで「それで思い出した」と言いたい。,That reminds me
+E062,日常会話,PHRASE_STYLE,B,忘れそうな情報を先に言うで「忘れないうちに」と言いたい。,Before I forget
+E063,日常会話,PHRASE_STYLE,B,詳しい経緯を省いて結論を言うで「手短に言うと」と言いたい。,Long story short
+E064,日常会話,PHRASE_STYLE,B,相手の主張を理解したと伝えるで「要点は分かります」と言いたい。,I get the point
+E065,日常会話,PHRASE_STYLE,B,説明が理解できないことを伝えるで「話についていけていません」と言いたい。,I am not following
+E066,日常会話,PHRASE_STYLE,B,聞き取れなかったときに頼むで「もう一度言ってもらえますか」と言いたい。,Could you say that again
+E067,日常会話,PHRASE_STYLE,B,相手の話す速度を下げてもらうで「ゆっくり話してもらえますか」と言いたい。,Could you slow down
+E068,日常会話,PHRASE_STYLE,B,近況や今の予定を尋ねるで「何しているの、最近どう」と言いたい。,What are you up to
+E069,日常会話,PHRASE_STYLE,B,結果や感想を尋ねるで「どうだった」と言いたい。,How did it go
+E070,日常会話,PHAVE_EXISTING,A,久しぶりに話す約束をするで「近況を話そう」と言いたい。,Let us catch up
+E071,仕事・メール,BUSINESS_CORPUS_REF,B,メールで添付ファイルを送るで「添付をご確認ください」と言いたい。,Please find attached
+E072,仕事・メール,BUSINESS_CORPUS_REF,B,メール冒頭で目的を述べるで「...するためにご連絡しています」と言いたい。,I am writing to
+E073,仕事・メール,BUSINESS_CORPUS_REF,B,丁寧に質問を切り出すで「...について伺いたいです」と言いたい。,I wanted to ask about
+E074,仕事・メール,PHAVE_EXISTING,A,以前の件を再確認するで「...についてフォローアップしたいです」と言いたい。,I wanted to follow up on
+E075,仕事・メール,BUSINESS_CORPUS_REF,B,短いフォローアップメールを送るで「...について再度確認します」と言いたい。,Just following up on
+E076,仕事・メール,BUSINESS_CORPUS_REF,B,問い合わせや連絡への返信で「ご連絡ありがとうございます」と言いたい。,Thank you for reaching out
+E077,仕事・メール,BUSINESS_CORPUS_REF,B,進捗共有への返答で「更新ありがとうございます」と言いたい。,Thanks for the update
+E078,仕事・メール,BUSINESS_CORPUS_REF,B,問題や質問を調査するで「調べてみます」と言いたい。,I will look into it
+E079,仕事・メール,PHAVE_EXISTING,A,確認後に返事を約束するで「折り返し連絡します」と言いたい。,I will get back to you
+E080,仕事・メール,BUSINESS_CORPUS_REF,B,不明点を確認するで「明確にしていただけますか」と言いたい。,Could you clarify
+E081,仕事・メール,BUSINESS_CORPUS_REF,B,事実や予定を確認するで「確認していただけますか」と言いたい。,Could you confirm
+E082,仕事・メール,BUSINESS_CORPUS_REF,B,資料や情報を依頼するで「送っていただけますか」と言いたい。,Could you send over
+E083,仕事・メール,BUSINESS_CORPUS_REF,B,レビューや確認を依頼するで「見ていただけますか」と言いたい。,Could you take a look at
+E084,仕事・メール,BUSINESS_CORPUS_REF,B,条件付きで連絡を求めるで「...なら知らせてください」と言いたい。,Please let me know if
+E085,仕事・メール,BUSINESS_CORPUS_REF,B,すぐ確認する意思を示すで「確認します」と言いたい。,Let me check
+E086,仕事・メール,BUSINESS_CORPUS_REF,B,誤り防止の確認をするで「念のため確認します」と言いたい。,Let me double-check
+E087,仕事・メール,BUSINESS_CORPUS_REF,B,進捗の継続共有を約束するで「随時共有します」と言いたい。,I will keep you updated
+E088,仕事・メール,BUSINESS_CORPUS_REF,B,後で詳しい情報を送るで「詳細を共有します」と言いたい。,I will share the details
+E089,仕事・メール,BUSINESS_CORPUS_REF,B,参考情報を添えるで「ご参考までに」と言いたい。,For your reference
+E090,仕事・メール,BUSINESS_CORPUS_REF,B,確認してほしい資料を送るで「レビュー用に」と言いたい。,For your review
+E091,仕事・メール,BUSINESS_CORPUS_REF,B,会議や会話の内容を受けるで「話し合った通り」と言いたい。,As discussed
+E092,仕事・メール,BUSINESS_CORPUS_REF,B,前に伝えた内容を参照するで「先ほど述べた通り」と言いたい。,As mentioned earlier
+E093,仕事・メール,BUSINESS_CORPUS_REF,B,会話を踏まえた結論を述べるで「話し合いに基づいて」と言いたい。,Based on our conversation
+E094,仕事・メール,BUSINESS_CORPUS_REF,B,件名や話題を示すで「...に関して」と言いたい。,Regarding
+E095,仕事・メール,BUSINESS_CORPUS_REF,B,ややフォーマルに話題を示すで「...に関して」と言いたい。,With regard to
+E096,仕事・メール,BUSINESS_CORPUS_REF,B,他の話題と分けて述べるで「...については」と言いたい。,As for
+E097,仕事・メール,BUSINESS_CORPUS_REF,B,観点や尺度を示すで「...の観点では」と言いたい。,In terms of
+E098,仕事・メール,BUSINESS_CORPUS_REF,B,自分側の状況を伝えるで「私の側では」と言いたい。,On my end
+E099,仕事・メール,BUSINESS_CORPUS_REF,B,自分の担当範囲から述べるで「私の側からは」と言いたい。,From my side
+E100,仕事・メール,BUSINESS_CORPUS_REF,B,相手の見方を尋ねるで「あなたの観点では」と言いたい。,From your perspective
+E101,仕事・メール,BUSINESS_CORPUS_REF,B,方針や条件をそろえるで「...について認識を合わせる必要がある」と言いたい。,We need to align on
+E102,仕事・メール,BUSINESS_CORPUS_REF,B,合意形成を提案するで「...について認識を合わせましょう」と言いたい。,Let us align on
+E103,仕事・メール,BUSINESS_CORPUS_REF,B,意見に同意するで「...に賛成です」と言いたい。,I agree with
+E104,仕事・メール,BUSINESS_CORPUS_REF,B,方針や見解の一致を伝えるで「...と認識が一致しています」と言いたい。,I am aligned with
+E105,仕事・メール,BUSINESS_CORPUS_REF,B,予定や案を承認するで「私の側ではそれで大丈夫です」と言いたい。,That works on my end
+E106,仕事・メール,BUSINESS_CORPUS_REF,B,相手の都合を確認するで「それで都合はよいですか」と言いたい。,Does that work for you
+E107,仕事・メール,BUSINESS_CORPUS_REF,B,会議可能な時間を尋ねるで「ご都合はいかがですか」と言いたい。,What is your availability
+E108,仕事・メール,BUSINESS_CORPUS_REF,B,会議や作業の可否を尋ねるで「...に対応可能ですか」と言いたい。,Are you available for
+E109,仕事・メール,BUSINESS_CORPUS_REF,B,会議や作業時間を設定するで「予定を入れましょう」と言いたい。,Let us schedule
+E110,仕事・メール,BUSINESS_CORPUS_REF,B,日程を組み直すで「予定を変更しましょう」と言いたい。,Let us reschedule
+E111,仕事・メール,BUSINESS_CORPUS_REF,B,期限や予定を遅らせるで「後ろ倒しにしましょう」と言いたい。,Let us push back
+E112,仕事・メール,PHAVE_EXISTING,A,予定を早めるで「前倒しにしましょう」と言いたい。,Let us move up
+E113,仕事・メール,BUSINESS_CORPUS_REF,B,締切が近いことを伝えるで「締切が近づいています」と言いたい。,The deadline is approaching
+E114,仕事・メール,BUSINESS_CORPUS_REF,B,進捗が計画通りであるで「予定通り進んでいます」と言いたい。,We are on track
+E115,仕事・メール,BUSINESS_CORPUS_REF,B,進捗遅れを共有するで「予定より遅れています」と言いたい。,We are behind schedule
+E116,仕事・メール,BUSINESS_CORPUS_REF,B,進捗が早いことを共有するで「予定より進んでいます」と言いたい。,We are ahead of schedule
+E117,仕事・メール,BUSINESS_CORPUS_REF,B,進行を止める問題を報告するで「障害があります」と言いたい。,There is a blocker
+E118,仕事・メール,BUSINESS_CORPUS_REF,B,やることを絞るで「優先順位をつける必要がある」と言いたい。,We need to prioritize
+E119,仕事・メール,BUSINESS_CORPUS_REF,B,重要度の高い事項を示すで「最優先事項は...です」と言いたい。,The main priority is
+E120,仕事・メール,BUSINESS_CORPUS_REF,B,次の行動を促すで「これを前に進めるために」と言いたい。,To move this forward
+E121,仕事・メール,BUSINESS_CORPUS_REF,B,会議後やメールで次の行動を整理するで「次のステップは...です」と言いたい。,Next steps are
+E122,仕事・メール,BUSINESS_CORPUS_REF,B,会議後のタスクを列挙するで「対応事項」と言いたい。,Action items
+E123,仕事・メール,BUSINESS_CORPUS_REF,B,自分が対応することを伝えるで「...を対応します」と言いたい。,I will take care of
+E124,仕事・メール,BUSINESS_CORPUS_REF,B,作業や問題を引き受けるで「...を担当します」と言いたい。,I will handle
+E125,仕事・メール,BUSINESS_CORPUS_REF,B,責任者として任せるで「...を担当してもらえますか」と言いたい。,Could you own
+E126,仕事・メール,BUSINESS_CORPUS_REF,B,担当や責任範囲を確認するで「...の責任者は誰ですか」と言いたい。,Who is responsible for
+E127,仕事・メール,BUSINESS_CORPUS_REF,B,自分の担当範囲を述べるで「...を担当しています」と言いたい。,I am responsible for
+E128,仕事・メール,BUSINESS_CORPUS_REF,B,確実に実行すると伝えるで「必ず...します」と言いたい。,I will make sure
+E129,仕事・メール,BUSINESS_CORPUS_REF,B,相手に確認や実行を依頼するで「必ず...してください」と言いたい。,Please make sure
+E130,仕事・メール,BUSINESS_CORPUS_REF,B,丁寧に依頼するで「...していただけると助かります」と言いたい。,It would be helpful if
+E131,仕事・メール,BUSINESS_CORPUS_REF,B,前向きに依頼するで「...していただけるとありがたいです」と言いたい。,It would be great if
+E132,仕事・メール,BUSINESS_CORPUS_REF,B,フォーマルに早めの対応を頼むで「ご都合がつき次第」と言いたい。,At your earliest convenience
+E133,仕事・メール,BUSINESS_CORPUS_REF,B,当日中の期限を示すで「今日中に」と言いたい。,By end of day
+E134,仕事・メール,BUSINESS_CORPUS_REF,B,営業日の終業までの期限を示すで「業務終了時までに」と言いたい。,By close of business
+E135,仕事・メール,BUSINESS_CORPUS_REF,B,厳しめの期限を示すで「遅くとも...までに」と言いたい。,No later than
+E136,仕事・メール,BUSINESS_CORPUS_REF,B,早急な対応を求めるで「できるだけ早く」と言いたい。,As soon as possible
+E137,仕事・メール,BUSINESS_CORPUS_REF,B,急がない依頼をするで「お時間のあるときに」と言いたい。,Whenever you have a chance
+E138,仕事・メール,BUSINESS_CORPUS_REF,B,相手に急がなくてよいと伝えるで「急ぎません」と言いたい。,No rush
+E139,仕事・メール,BUSINESS_CORPUS_REF,B,依頼メールの結びに使うで「先にお礼申し上げます」と言いたい。,Thanks in advance
+E140,仕事・メール,BUSINESS_CORPUS_REF,B,支援への感謝を述べるで「ご協力に感謝します」と言いたい。,I appreciate your help
+E141,仕事・メール,BUSINESS_CORPUS_REF,B,相手に迷惑がかかったことを謝るで「ご不便をおかけしてすみません」と言いたい。,Sorry for the inconvenience
+E142,仕事・メール,BUSINESS_CORPUS_REF,B,待たせた相手に感謝するで「お待ちいただきありがとうございます」と言いたい。,Thank you for your patience
+E143,仕事・メール,BUSINESS_CORPUS_REF,B,返信や作業の遅れを謝るで「遅れて申し訳ありません」と言いたい。,I apologize for the delay
+E144,仕事・メール,BUSINESS_CORPUS_REF,B,認識違いを説明するで「誤解がありました」と言いたい。,There was a misunderstanding
+E145,仕事・メール,BUSINESS_CORPUS_REF,B,誤解防止の説明をするで「混乱を避けるために」と言いたい。,To avoid confusion
+E146,仕事・メール,BUSINESS_CORPUS_REF,B,補足説明や訂正をするで「明確にすると」と言いたい。,To clarify
+E147,仕事・メール,BUSINESS_CORPUS_REF,B,念のため確認するで「確認ですが」と言いたい。,Just to confirm
+E148,仕事・メール,BUSINESS_CORPUS_REF,B,誤解を防いで明示するで「はっきりさせると」と言いたい。,Just to be clear
+E149,仕事・メール,BUSINESS_CORPUS_REF,B,重要な注意点を伝えるで「...にご注意ください」と言いたい。,Please note that
+E150,仕事・メール,BUSINESS_CORPUS_REF,B,事前に軽く知らせるで「念のため事前共有です」と言いたい。,A quick heads-up
+E151,仕事・メール,BUSINESS_CORPUS_REF,B,進行中の作業を共有するで「現在...に取り組んでいます」と言いたい。,We are currently working on
+E152,仕事・メール,BUSINESS_CORPUS_REF,B,計画を共有するで「...する予定です」と言いたい。,We are planning to
+E153,仕事・メール,BUSINESS_CORPUS_REF,B,候補や案を検討中であるで「...を検討しています」と言いたい。,We are considering
+E154,仕事・メール,BUSINESS_CORPUS_REF,B,決定事項を共有するで「...することに決めました」と言いたい。,We decided to
+E155,仕事・メール,BUSINESS_CORPUS_REF,B,見込みや予定を述べるで「...する見込みです」と言いたい。,We are expected to
+E156,仕事・メール,BUSINESS_CORPUS_REF,B,問題解決を報告するで「問題は解決済みです」と言いたい。,The issue has been resolved
+E157,仕事・メール,BUSINESS_CORPUS_REF,B,未解決の問題を報告するで「問題はまだ継続中です」と言いたい。,The issue is still ongoing
+E158,仕事・メール,BUSINESS_CORPUS_REF,B,上位者や別チームに回すで「この件を上位にエスカレーションします」と言いたい。,I will escalate this
+E159,仕事・メール,BUSINESS_CORPUS_REF,B,関係者をメールや会話に加えるで「...を話に入れました」と言いたい。,I looped in
+E160,仕事・メール,BUSINESS_CORPUS_REF,B,メールで関係者をCCに入れるで「...をCCに入れました」と言いたい。,I have cc'd
+E161,説明・意見,AFL_DISCOURSE,B,自分の意見を述べるで「私の意見では」と言いたい。,In my opinion
+E162,説明・意見,AFL_DISCOURSE,B,控えめに判断を述べるで「私なら...と言います」と言いたい。,I would say
+E163,説明・意見,AFL_DISCOURSE,B,論理的に主張するで「...だと主張したい」と言いたい。,I would argue that
+E164,説明・意見,AFL_DISCOURSE,B,見解を柔らかく述べるで「私には...のように思える」と言いたい。,It seems to me that
+E165,説明・意見,AFL_DISCOURSE,B,やや控えめな推測を述べるで「...だと思います」と言いたい。,I suppose
+E166,説明・意見,AFL_DISCOURSE,B,前提や仮定を述べるで「...だと想定しています」と言いたい。,I assume
+E167,説明・意見,AFL_DISCOURSE,B,くだけた推測や判断を述べるで「...だと思う」と言いたい。,I guess
+E168,説明・意見,AFL_DISCOURSE,B,強い確信を述べるで「...だと確信しています」と言いたい。,I am convinced that
+E169,説明・意見,AFL_DISCOURSE,B,疑いを丁寧に述べるで「...だとは納得していません」と言いたい。,I am not convinced that
+E170,説明・意見,AFL_DISCOURSE,B,強い確実性を述べるで「...であることは疑いない」と言いたい。,There is no doubt that
+E171,説明・意見,AFL_DISCOURSE,B,高い可能性を述べるで「...である可能性が高い」と言いたい。,It is likely that
+E172,説明・意見,AFL_DISCOURSE,B,低い可能性を述べるで「...である可能性は低い」と言いたい。,It is unlikely that
+E173,説明・意見,AFL_DISCOURSE,B,可能性を中立的に述べるで「...の可能性がある」と言いたい。,It is possible that
+E174,説明・意見,AFL_DISCOURSE,B,重要な補足点を出すで「...は注目に値する」と言いたい。,It is worth noting that
+E175,説明・意見,AFL_DISCOURSE,B,中心となる主張を示すで「要するに...ということです」と言いたい。,The point is that
+E176,説明・意見,AFL_DISCOURSE,B,最重要点を示すで「重要な点は...です」と言いたい。,The key point is
+E177,説明・意見,AFL_DISCOURSE,B,理由の中心を述べるで「主な理由は...です」と言いたい。,The main reason is
+E178,説明・意見,AFL_DISCOURSE,B,理由を一つ挙げるで「一つの理由は...です」と言いたい。,One reason is that
+E179,説明・意見,AFL_DISCOURSE,B,追加の要因を示すで「もう一つの要因は...です」と言いたい。,Another factor is
+E180,説明・意見,AFL_DISCOURSE,B,直前の内容の理由を述べるで「これは...だからです」と言いたい。,This is because
+E181,説明・意見,AFL_DISCOURSE,B,理由から結論へつなぐで「だから...なのです」と言いたい。,That is why
+E182,説明・意見,AFL_DISCOURSE,B,結果を述べるで「その結果」と言いたい。,As a result
+E183,説明・意見,AFL_DISCOURSE,B,やや硬く結果を述べるで「結果として」と言いたい。,As a consequence
+E184,説明・意見,AFL_DISCOURSE,B,理由を受けて結論を述べるで「この理由で」と言いたい。,For this reason
+E185,説明・意見,AFL_DISCOURSE,B,別の表現で説明するで「言い換えると」と言いたい。,In other words
+E186,説明・意見,AFL_DISCOURSE,B,分かりやすく言い換えるで「簡単に言うと」と言いたい。,To put it simply
+E187,説明・意見,AFL_DISCOURSE,B,別角度から言い換えるで「別の言い方をすると」と言いたい。,Put another way
+E188,説明・意見,AFL_DISCOURSE,B,意図を明確にするで「私が言いたいのは...です」と言いたい。,What I mean is
+E189,説明・意見,AFL_DISCOURSE,B,例を出すで「例えば」と言いたい。,For example
+E190,説明・意見,AFL_DISCOURSE,B,例を出すで「例えば」と言いたい。,For instance
+E191,説明・意見,AFL_DISCOURSE,B,具体例を名詞で挙げるで「...のような」と言いたい。,Such as
+E192,説明・意見,AFL_DISCOURSE,B,特定の点を強調するで「特に」と言いたい。,In particular
+E193,説明・意見,AFL_DISCOURSE,B,条件付きで強調するで「特に...の場合」と言いたい。,Especially when
+E194,説明・意見,AFL_DISCOURSE,B,一般論を述べるで「一般的に」と言いたい。,In general
+E195,説明・意見,AFL_DISCOURSE,B,大まかな傾向を述べるで「一般的に言えば」と言いたい。,Generally speaking
+E196,説明・意見,AFL_DISCOURSE,B,よくある傾向を述べるで「多くの場合」と言いたい。,In many cases
+E197,説明・意見,AFL_DISCOURSE,B,限定的な場合を示すで「場合によっては」と言いたい。,In some cases
+E198,説明・意見,AFL_DISCOURSE,B,対比の片側を示すで「一方では」と言いたい。,On the one hand
+E199,説明・意見,AFL_DISCOURSE,B,対比のもう片側を示すで「他方では」と言いたい。,On the other hand
+E200,説明・意見,AFL_DISCOURSE,B,強めの対比を示すで「対照的に」と言いたい。,By contrast
+E201,説明・意見,AFL_DISCOURSE,B,違いを述べるで「対照的に」と言いたい。,In contrast
+E202,説明・意見,AFL_DISCOURSE,B,比較対象を示すで「...と比べて」と言いたい。,Compared with
+E203,説明・意見,AFL_DISCOURSE,B,類似点を示すで「...と似ている」と言いたい。,Similar to
+E204,説明・意見,AFL_DISCOURSE,B,違いを示すで「...とは違って」と言いたい。,Unlike
+E205,説明・意見,AFL_DISCOURSE,B,事実を認めつつ対比するで「...だけれども」と言いたい。,Even though
+E206,説明・意見,AFL_DISCOURSE,B,譲歩を示すで「...ではあるが」と言いたい。,Although
+E207,説明・意見,AFL_DISCOURSE,B,名詞句で譲歩を示すで「...にもかかわらず」と言いたい。,Despite
+E208,説明・意見,AFL_DISCOURSE,B,やや強く譲歩を示すで「...にもかかわらず」と言いたい。,In spite of
+E209,説明・意見,AFL_DISCOURSE,B,条件に左右されないことを示すで「...に関係なく」と言いたい。,Regardless of
+E210,説明・意見,AFL_DISCOURSE,B,条件を示すで「...する限り」と言いたい。,As long as
+E211,説明・意見,AFL_DISCOURSE,B,否定条件を示すで「...でない限り」と言いたい。,Unless
+E212,説明・意見,AFL_DISCOURSE,B,柔らかく希望条件を示すで「可能であれば」と言いたい。,If possible
+E213,説明・意見,AFL_DISCOURSE,B,条件付きの対応を示すで「必要であれば」と言いたい。,If necessary
+E214,説明・意見,AFL_DISCOURSE,B,結果が条件で変わることを示すで「...によっては」と言いたい。,Depending on
+E215,説明・意見,AFL_DISCOURSE,B,今のケースに限定して述べるで「この場合」と言いたい。,In this case
+E216,説明・意見,AFL_DISCOURSE,B,ある観点で評価するで「その意味では」と言いたい。,In that sense
+E217,説明・意見,AFL_DISCOURSE,B,部分的な同意や評価を示すで「ある程度は」と言いたい。,To some extent
+E218,説明・意見,AFL_DISCOURSE,B,限定的な見方を示すで「ある意味では」と言いたい。,In a way
+E219,説明・意見,AFL_DISCOURSE,B,おおよその一致や完了を示すで「だいたい」と言いたい。,More or less
+E220,説明・意見,AFL_DISCOURSE,B,最低限の範囲を示すで「少なくとも」と言いたい。,At least
+E221,説明・意見,AFL_DISCOURSE,B,短く結論をまとめるで「要するに」と言いたい。,In short
+E222,説明・意見,AFL_DISCOURSE,B,最後に要点をまとめるで「まとめると」と言いたい。,To sum up
+E223,説明・意見,AFL_DISCOURSE,B,総合評価を述べるで「全体として」と言いたい。,Overall
+E224,説明・意見,AFL_DISCOURSE,B,問題点を明示するで「問題は...です」と言いたい。,The problem is
+E225,説明・意見,AFL_DISCOURSE,B,難所や課題を示すで「課題は...です」と言いたい。,The challenge is
+E226,説明・意見,AFL_DISCOURSE,B,メリットを説明するで「利点は...です」と言いたい。,The benefit is
+E227,説明・意見,AFL_DISCOURSE,B,デメリットを説明するで「欠点は...です」と言いたい。,The downside is
+E228,説明・意見,AFL_DISCOURSE,B,本質的な要因に絞るで「結局...に尽きる」と言いたい。,It comes down to
+E229,説明・意見,AFL_DISCOURSE,B,条件分岐を述べるで「...かどうかによる」と言いたい。,It depends on whether
+E230,説明・意見,AFL_DISCOURSE,B,重要点を強調するで「重要なのは...です」と言いたい。,What matters is
+E231,高頻度コロケーション,CORPUS_COLLOCATION,B,選択肢から決めるで「決定する」と言いたい。,make a decision
+E232,高頻度コロケーション,CORPUS_COLLOCATION,B,ミスをするで「間違える」と言いたい。,make a mistake
+E233,高頻度コロケーション,CORPUS_COLLOCATION,B,作業や学習が前に進むで「進歩する、進捗を出す」と言いたい。,make progress
+E234,高頻度コロケーション,CORPUS_COLLOCATION,B,説明や案が理解できるで「意味をなす、筋が通る」と言いたい。,make sense
+E235,高頻度コロケーション,CORPUS_COLLOCATION,B,意識して取り組むで「努力する」と言いたい。,make an effort
+E236,高頻度コロケーション,CORPUS_COLLOCATION,B,行動が良い影響を与えるで「違いを生む、効果がある」と言いたい。,make a difference
+E237,高頻度コロケーション,CORPUS_COLLOCATION,B,担当や結果に責任を持つで「責任を取る」と言いたい。,take responsibility
+E238,高頻度コロケーション,CORPUS_COLLOCATION,B,問題に対して動くで「行動を起こす」と言いたい。,take action
+E239,高頻度コロケーション,CORPUS_COLLOCATION,B,機会や制度をうまく使うで「...を活用する、利用する」と言いたい。,take advantage of
+E240,高頻度コロケーション,CORPUS_COLLOCATION,B,判断時に要素を考慮するで「...を考慮に入れる」と言いたい。,take into account
+E241,高頻度コロケーション,CORPUS_COLLOCATION,B,イベントや出来事が発生するで「行われる、起こる」と言いたい。,take place
+E242,高頻度コロケーション,CORPUS_COLLOCATION,B,完了まで時間を要するで「時間がかかる」と言いたい。,take time
+E243,高頻度コロケーション,CORPUS_COLLOCATION,B,会議や授業で記録するで「メモを取る」と言いたい。,take notes
+E244,高頻度コロケーション,CORPUS_COLLOCATION,B,作業を一時停止して休むで「休憩する」と言いたい。,take a break
+E245,高頻度コロケーション,CORPUS_COLLOCATION,B,人やタスクを扱うで「...の世話をする、対応する」と言いたい。,take care of
+E246,高頻度コロケーション,CORPUS_COLLOCATION,B,何かをする機会があるで「機会がある」と言いたい。,have a chance
+E247,高頻度コロケーション,CORPUS_COLLOCATION,B,うまくできず困るで「苦労する」と言いたい。,have trouble
+E248,高頻度コロケーション,CORPUS_COLLOCATION,B,資料や場所を使える状態にあるで「...にアクセスできる」と言いたい。,have access to
+E249,高頻度コロケーション,CORPUS_COLLOCATION,B,結果や人に影響するで「...に影響を与える」と言いたい。,have an impact on
+E250,高頻度コロケーション,CORPUS_COLLOCATION,B,人と話して確認するで「会話する、話し合う」と言いたい。,have a conversation
+E251,高頻度コロケーション,CORPUS_COLLOCATION,B,情報を集めて調べるで「調査する」と言いたい。,do research
+E252,高頻度コロケーション,CORPUS_COLLOCATION,B,企業や人と商取引するで「取引する」と言いたい。,do business
+E253,高頻度コロケーション,CORPUS_COLLOCATION,B,できる限り頑張るで「最善を尽くす」と言いたい。,do your best
+E254,高頻度コロケーション,CORPUS_COLLOCATION,B,何かをする承認を得るで「許可を得る」と言いたい。,get permission
+E255,高頻度コロケーション,CORPUS_COLLOCATION,B,上位者や関係者から承認されるで「承認を得る」と言いたい。,get approval
+E256,高頻度コロケーション,CORPUS_COLLOCATION,B,意見や評価を受け取るで「フィードバックを得る」と言いたい。,get feedback
+E257,高頻度コロケーション,CORPUS_COLLOCATION,B,作業を開始するで「始める」と言いたい。,get started
+E258,高頻度コロケーション,CORPUS_COLLOCATION,B,予定や活動に備えるで「準備する」と言いたい。,get ready
+E259,高頻度コロケーション,CORPUS_COLLOCATION,B,相手に助言を与えるで「助言する」と言いたい。,give advice
+E260,高頻度コロケーション,CORPUS_COLLOCATION,B,評価や改善点を伝えるで「フィードバックする」と言いたい。,give feedback
+E261,高頻度コロケーション,CORPUS_COLLOCATION,B,人前で発表するで「プレゼンをする」と言いたい。,give a presentation
+E262,高頻度コロケーション,CORPUS_COLLOCATION,B,相手を手助けするで「人を手伝う」と言いたい。,give someone a hand
+E263,高頻度コロケーション,CORPUS_COLLOCATION,B,重要な点に意識を向けるで「...に注意を払う」と言いたい。,pay attention to
+E264,高頻度コロケーション,CORPUS_COLLOCATION,B,支払い対象を示すで「...の代金を払う」と言いたい。,pay for
+E265,高頻度コロケーション,PHAVE_EXISTING,A,努力や投資が成果につながるで「報われる、効果が出る」と言いたい。,pay off
+E266,高頻度コロケーション,CORPUS_COLLOCATION,B,判断時に注意点を保持するで「...を覚えておく、考慮する」と言いたい。,keep in mind
+E267,高頻度コロケーション,CORPUS_COLLOCATION,B,変化や数を管理するで「...を把握し続ける」と言いたい。,keep track of
+E268,高頻度コロケーション,CORPUS_COLLOCATION,B,状況を注意して見るで「...を見守る、監視する」と言いたい。,keep an eye on
+E269,高頻度コロケーション,CORPUS_COLLOCATION,B,関係を保つで「連絡を取り続ける」と言いたい。,stay in touch
+E270,高頻度コロケーション,CORPUS_COLLOCATION,B,注意をそらさず作業するで「集中し続ける」と言いたい。,stay focused
+E271,高頻度コロケーション,CORPUS_COLLOCATION,B,新しい情報を追い続けるで「最新情報を把握している」と言いたい。,stay up to date
+E272,高頻度コロケーション,PHAVE_EXISTING,A,案や解決策を出すで「...を思いつく」と言いたい。,come up with
+E273,高頻度コロケーション,CORPUS_COLLOCATION,B,検討の末に結論を出すで「結論に達する」と言いたい。,come to a conclusion
+E274,高頻度コロケーション,CORPUS_COLLOCATION,B,正式に判断を下すで「決定に至る」と言いたい。,reach a decision
+E275,高頻度コロケーション,PHAVE_EXISTING,A,人に連絡を取るで「...に連絡する」と言いたい。,reach out to
+E276,高頻度コロケーション,CORPUS_COLLOCATION,B,期限までに完了するで「締切に間に合う」と言いたい。,meet a deadline
+E277,高頻度コロケーション,CORPUS_COLLOCATION,B,期限に間に合わないで「締切に遅れる」と言いたい。,miss a deadline
+E278,高頻度コロケーション,CORPUS_COLLOCATION,B,達成したい目標を決めるで「目標を設定する」と言いたい。,set a goal
+E279,高頻度コロケーション,CORPUS_COLLOCATION,B,完了期限を決めるで「締切を設定する」と言いたい。,set a deadline
+E280,高頻度コロケーション,CORPUS_COLLOCATION,B,事前に見込みや範囲を伝えるで「期待値を調整する」と言いたい。,set expectations
+E281,高頻度コロケーション,CORPUS_COLLOCATION,B,検討すべき質問を出すで「疑問を提起する」と言いたい。,raise a question
+E282,高頻度コロケーション,CORPUS_COLLOCATION,B,問題や活動を知ってもらうで「認知を高める」と言いたい。,raise awareness
+E283,高頻度コロケーション,CORPUS_COLLOCATION,B,問題を取り上げて対応するで「問題に対処する」と言いたい。,address an issue
+E284,高頻度コロケーション,CORPUS_COLLOCATION,B,解決策を実行するで「問題を解決する」と言いたい。,solve a problem
+E285,高頻度コロケーション,CORPUS_COLLOCATION,B,悪い結果の原因になるで「問題を引き起こす」と言いたい。,cause a problem
+E286,高頻度コロケーション,CORPUS_COLLOCATION,B,難しい状況に向き合うで「課題に直面する」と言いたい。,face a challenge
+E287,高頻度コロケーション,CORPUS_COLLOCATION,B,結果や状況に関わるで「役割を果たす」と言いたい。,play a role
+E288,高頻度コロケーション,CORPUS_COLLOCATION,B,大きく貢献するで「重要な役割を果たす」と言いたい。,play an important part
+E289,高頻度コロケーション,CORPUS_COLLOCATION,B,関係の中で信頼を作るで「信頼を築く」と言いたい。,build trust
+E290,高頻度コロケーション,CORPUS_COLLOCATION,B,人や組織との関係を作るで「関係を築く」と言いたい。,build a relationship
+E291,高頻度コロケーション,CORPUS_COLLOCATION,B,必要な時間を減らすで「時間を節約する」と言いたい。,save time
+E292,高頻度コロケーション,CORPUS_COLLOCATION,B,費用を減らすで「お金を節約する」と言いたい。,save money
+E293,高頻度コロケーション,CORPUS_COLLOCATION,B,活動に時間を費やすで「時間を使う」と言いたい。,spend time
+E294,高頻度コロケーション,CORPUS_COLLOCATION,B,価値の低いことに時間を使うで「時間を無駄にする」と言いたい。,waste time
+E295,高頻度コロケーション,CORPUS_COLLOCATION,B,費用を下げるで「コストを削減する」と言いたい。,reduce costs
+E296,高頻度コロケーション,CORPUS_COLLOCATION,B,販売量や売上を上げるで「売上を増やす」と言いたい。,increase sales
+E297,高頻度コロケーション,CORPUS_COLLOCATION,B,成果物の質を上げるで「品質を向上させる」と言いたい。,improve quality
+E298,高頻度コロケーション,CORPUS_COLLOCATION,B,人や活動を支援するで「支援を提供する」と言いたい。,provide support
+E299,高頻度コロケーション,CORPUS_COLLOCATION,B,問題への解決案を出すで「解決策を提示する」と言いたい。,offer a solution
+E300,高頻度コロケーション,CORPUS_COLLOCATION,B,設定した目標に到達するで「目標を達成する」と言いたい。,achieve a goal

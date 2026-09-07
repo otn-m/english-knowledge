@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+._*
+
+# Obsidian configuration and plugins
+.obsidian/
+.trash/
+
+# Source materials
+sources/
+
+# Temporary/generated working files
+tmp/
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
